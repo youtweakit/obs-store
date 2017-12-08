@@ -1,5 +1,5 @@
 {
-  "name": "obs-store",
+  "name": "obs-store-es5",
   "version": "2.4.1",
   "description": "`ObservableStore` is a synchronous in-memory store for a single value, that you can subscribe to updates on.",
   "main": "index-es5.js",
